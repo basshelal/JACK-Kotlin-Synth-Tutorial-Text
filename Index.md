@@ -42,5 +42,9 @@ Adding polyphony to synthesizer
 
 ## Chapter 8 
 
+Adding Pitch bend control to synthesizer
+
+## Chapter 9
+
 Conclusion
 Where to go from here
