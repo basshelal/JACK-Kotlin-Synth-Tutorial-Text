@@ -44,6 +44,10 @@ Adding polyphony to synthesizer
 
 Adding Pitch bend control to synthesizer
 
+## ?Chapter9? ADSR?
+
+Adding ADSR envelopes to synthesizer
+
 ## Chapter 9
 
 Conclusion
